@@ -1,4 +1,4 @@
 # KagComp
 1. <a href="https://www.kaggle.com/competitions/opencv-tf-project-3-image-segmentation-round-2">Semantic Segmentation Project using FloodNet dataset</a> -- <a href="https://github.com/JakeC021/KagComp/blob/main/FloodNet-fin-proj.ipynb">FloodNet-fin-proj.ipynb</a>
 2. <a href="https://www.kaggle.com/competitions/gan-getting-started/overview">I'm Something of a Painter Myself</a> -- <a href="https://github.com/JakeC021/KagComp/blob/main/MonetGen.ipynb">MonetGen.ipynb</a>
-3. <a href="https://www.kaggle.com/competitions/opencv-TF-course-project-1-image-classification">Animal Classification</a> -- <a href="https://github.com/JakeC021/KagComp/blob/main/animalclassification.ipynb">animalclassification.ipynb</a>    
+3. <a href="https://www.kaggle.com/competitions/opencv-TF-course-project-1-image-classification">Animal Classification</a> -- <a href="https://github.com/JakeC021/KagComp/blob/main/animalclassification.ipynb">AnimalClassification.ipynb</a>    
